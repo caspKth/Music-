@@ -13,7 +13,7 @@ input.addEventListener("click", function(){
 });
 
 const musicList = [
-  "https://archive.org/download/003.-maneskin-torna-a-casa/009.MANESKIN%20-%20I%20Wanna%20Be%20your%20slave%20.mp3",
+  "https://archive.org/download/CyndiLauperGirlsJustWantToHaveFun_201510/Cyndi%20Lauper%20-%20Girls%20Just%20Want%20To%20Have%20Fun.mp3",
   "https://lenadesign.org/wp-content/uploads/2022/03/Fur-Elise-by-Beethoven-Beethoven.mp3"
   
 ];
