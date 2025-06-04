@@ -193,7 +193,7 @@ body {
 .box {
   position: absolute;
   width: 270px;
-  background-color:#7c293d;
+  background-color:#f4b6c2;
   height:140px;
   top:170px;
   left:-145px;
@@ -212,7 +212,7 @@ body {
 .music {
   position: absolute;
   width:270px;
-  background-color: #8d334d;
+  background-color: #fbd6e3;
   height: 50px;
   border-radius: 10px 10px 0 0;
   z-index:10;
